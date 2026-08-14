@@ -1,0 +1,10 @@
+f407_auxiliary_board\elog_port.o: ..\Middlewares\log\easylogger\port\elog_port.c
+f407_auxiliary_board\elog_port.o: ../Middlewares/log/easylogger/inc/elog.h
+f407_auxiliary_board\elog_port.o: ../Middlewares/log/easylogger/inc/elog_cfg.h
+f407_auxiliary_board\elog_port.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+f407_auxiliary_board\elog_port.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stddef.h
+f407_auxiliary_board\elog_port.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+f407_auxiliary_board\elog_port.o: ../Middlewares/log/Rtt/SEGGER_RTT.h
+f407_auxiliary_board\elog_port.o: ../Middlewares/log/Rtt/SEGGER_RTT_Conf.h
+f407_auxiliary_board\elog_port.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+f407_auxiliary_board\elog_port.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdarg.h

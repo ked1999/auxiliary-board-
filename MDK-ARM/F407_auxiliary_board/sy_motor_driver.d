@@ -1,0 +1,14 @@
+f407_auxiliary_board\sy_motor_driver.o: ..\BSP\sy_motor\driver\sy_motor_driver.c
+f407_auxiliary_board\sy_motor_driver.o: ..\BSP\sy_motor\driver\sy_motor_driver.h
+f407_auxiliary_board\sy_motor_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+f407_auxiliary_board\sy_motor_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+f407_auxiliary_board\sy_motor_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdio.h
+f407_auxiliary_board\sy_motor_driver.o: ../Middlewares/log/easylogger/inc/elog.h
+f407_auxiliary_board\sy_motor_driver.o: ../Middlewares/log/easylogger/inc/elog_cfg.h
+f407_auxiliary_board\sy_motor_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stddef.h
+f407_auxiliary_board\sy_motor_driver.o: ../BSP/sy_motor/handler/sy_motor_config.h
+f407_auxiliary_board\sy_motor_driver.o: ../Middlewares/checksum/checksum.h
+f407_auxiliary_board\sy_motor_driver.o: ../Middlewares/Big_Little_endian/endian.h
+f407_auxiliary_board\sy_motor_driver.o: ../Middlewares/Chain_of_Responsibility/chain_sensor.h
+f407_auxiliary_board\sy_motor_driver.o: ../BSP/sy_motor/handler/sy_motor_handler.h
+f407_auxiliary_board\sy_motor_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\string.h

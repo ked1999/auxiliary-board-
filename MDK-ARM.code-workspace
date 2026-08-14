@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "MDK-ARM"
+		}
+	],
+	"settings": {
+		"terminal.integrated.stickyScroll.enabled": false
+	}
+}

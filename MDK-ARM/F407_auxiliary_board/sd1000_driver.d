@@ -1,0 +1,10 @@
+f407_auxiliary_board\sd1000_driver.o: ..\BSP\SD1000\driver\sd1000_driver.c
+f407_auxiliary_board\sd1000_driver.o: ..\BSP\SD1000\driver\sd1000_driver.h
+f407_auxiliary_board\sd1000_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+f407_auxiliary_board\sd1000_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+f407_auxiliary_board\sd1000_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdio.h
+f407_auxiliary_board\sd1000_driver.o: ../Middlewares/log/easylogger/inc/elog.h
+f407_auxiliary_board\sd1000_driver.o: ../Middlewares/log/easylogger/inc/elog_cfg.h
+f407_auxiliary_board\sd1000_driver.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stddef.h
+f407_auxiliary_board\sd1000_driver.o: ../BSP/SD1000/handler/sd1000_config.h
+f407_auxiliary_board\sd1000_driver.o: ../BSP/SD1000/handler/sd1000_handler.h

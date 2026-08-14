@@ -1,0 +1,47 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin'
+Build target 'F407_auxiliary_board'
+compiling chain_sensor.c...
+compiling tcsm_handler.c...
+compiling tcsm_driver.c...
+..\BSP\tcsm\driver\tcsm_driver.c(371): warning:  #177-D: variable "rx_data"  was declared but never referenced
+      TCSM_driver_Data_t  rx_data = {0};
+..\BSP\tcsm\driver\tcsm_driver.c(521): warning:  #185-D: dynamic initialization in unreachable code
+      uint8_t time = 0;
+..\BSP\tcsm\driver\tcsm_driver.c(521): warning:  #177-D: variable "time"  was declared but never referenced
+      uint8_t time = 0;
+..\BSP\tcsm\driver\tcsm_driver.c(553): warning:  #177-D: variable "state"  was declared but never referenced
+      uint8_t state = 0;
+..\BSP\tcsm\driver\tcsm_driver.c: 4 warnings, 0 errors
+compiling app_task_control.c...
+compiling tcsm.c...
+compiling app_init.c...
+compiling app_state_control.c...
+compiling stm32f4xx_it.c...
+compiling freertos.c...
+compiling app_reset.c...
+..\APP\app_reset.c(50): warning:  #177-D: variable "recv_buf"  was declared but never referenced
+      uint8_t recv_buf[8] = {0};
+..\APP\app_reset.c: 1 warning, 0 errors
+compiling app_sy_motor.c...
+..\APP\app_sy_motor.c(211): warning:  #177-D: variable "steps"  was declared but never referenced
+      uint16_t Volume , steps;
+..\APP\app_sy_motor.c: 1 warning, 0 errors
+compiling app_tcsm.c...
+..\APP\app_tcsm.c(164): warning:  #550-D: variable "sersor_ret"  was set but never used
+      int8_t sersor_ret = 0;
+..\APP\app_tcsm.c(522): warning:  #177-D: variable "i"  was declared but never referenced
+      uint8_t i = 0;
+..\APP\app_tcsm.c(786): warning:  #177-D: variable "times"  was declared but never referenced
+      uint8_t times = 0;
+..\APP\app_tcsm.c(888): warning:  #177-D: variable "i"  was declared but never referenced
+      uint8_t i = 0;
+..\APP\app_tcsm.c(1022): warning:  #177-D: variable "i"  was declared but never referenced
+      uint8_t i = 0;
+..\APP\app_tcsm.c(32): warning:  #550-D: variable "g_Register_Notify"  was set but never used
+  static uint8_t g_Register_Notify = 0;
+..\APP\app_tcsm.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=44240 RO-data=1956 RW-data=744 ZI-data=23488  
+FromELF: creating hex file...
+"F407_auxiliary_board\F407_auxiliary_board.axf" - 0 Error(s), 12 Warning(s).
+Build Time Elapsed:  00:00:04

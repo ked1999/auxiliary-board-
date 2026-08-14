@@ -1,0 +1,11 @@
+f407_auxiliary_board\sv04m_handler.o: ..\BSP\SV04M\handler\sv04m_handler.c
+f407_auxiliary_board\sv04m_handler.o: ..\BSP\SV04M\handler\sv04m_handler.h
+f407_auxiliary_board\sv04m_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+f407_auxiliary_board\sv04m_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+f407_auxiliary_board\sv04m_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdio.h
+f407_auxiliary_board\sv04m_handler.o: ../Middlewares/log/easylogger/inc/elog.h
+f407_auxiliary_board\sv04m_handler.o: ../Middlewares/log/easylogger/inc/elog_cfg.h
+f407_auxiliary_board\sv04m_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stddef.h
+f407_auxiliary_board\sv04m_handler.o: ../BSP/SV04M/driver/sv04m_driver.h
+f407_auxiliary_board\sv04m_handler.o: ../BSP/SV04M/handler/sv04m_config.h
+f407_auxiliary_board\sv04m_handler.o: ../Middlewares/checksum/checksum.h

@@ -1,0 +1,13 @@
+f407_auxiliary_board\tcsm_handler.o: ..\BSP\tcsm\handler\tcsm_handler.c
+f407_auxiliary_board\tcsm_handler.o: ..\BSP\tcsm\handler\tcsm_handler.h
+f407_auxiliary_board\tcsm_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+f407_auxiliary_board\tcsm_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+f407_auxiliary_board\tcsm_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stdio.h
+f407_auxiliary_board\tcsm_handler.o: ../Middlewares/log/easylogger/inc/elog.h
+f407_auxiliary_board\tcsm_handler.o: ../Middlewares/log/easylogger/inc/elog_cfg.h
+f407_auxiliary_board\tcsm_handler.o: D:\ProngramFile\MDK\Core\ARM\ARMCC\Bin\..\include\stddef.h
+f407_auxiliary_board\tcsm_handler.o: ../BSP/tcsm/driver/tcsm_driver.h
+f407_auxiliary_board\tcsm_handler.o: ../BSP/tcsm/handler/TCSM_config.h
+f407_auxiliary_board\tcsm_handler.o: ../Middlewares/checksum/checksum.h
+f407_auxiliary_board\tcsm_handler.o: ../Middlewares/Big_Little_endian/endian.h
+f407_auxiliary_board\tcsm_handler.o: ../Middlewares/Chain_of_Responsibility/chain_sensor.h
