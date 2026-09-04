@@ -1,0 +1,31 @@
+# Build outputs
+*.o
+*.obj
+*.hex
+*.bin
+*.axf
+*.map
+*.dep
+*.crf
+*.htm
+*.build_log.htm
+
+# Keil/MDK files
+MDK-ARM/*.uvguix*
+MDK-ARM/*.uvoptx*
+MDK-ARM/*.pack
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+
+# IDE files
+.vscode/*
+!.vscode/*.json
+!.vscode/*.md
+!.vscode/c_cpp_properties.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
